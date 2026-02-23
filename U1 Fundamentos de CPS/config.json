@@ -1,0 +1,18 @@
+{
+    "robot_name": "Seguidor_V1",
+    "radio_llanta": 0.033,
+    "velocidad_max": 1.2,
+    "sensores": [
+        "left_ir",
+        "center_ir",
+        "right_ir"
+    ],
+    "pid": {
+        "kp": 10,
+        "ki": 0.05,
+        "kd": 0.12
+    },
+    "enabled": true,
+    "notes": null,
+    "nuevo_param": "ñ"
+}
